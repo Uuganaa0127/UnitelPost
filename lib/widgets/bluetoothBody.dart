@@ -57,8 +57,8 @@ class _BlueToothBodyState extends State<BlueToothBody> {
               Expanded(
                   child: TextButton.icon(
                       onPressed: () {
-                        Navigator.push(context,
-                            MaterialPageRoute(builder: (_) => PrintPage(data)));
+                      //   Navigator.push(context,
+                      //       MaterialPageRoute(builder: (_) => PrintPage(data)));
                       },
                       icon: Icon(Icons.print),
                       label: Text('print')))

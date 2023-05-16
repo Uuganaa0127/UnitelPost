@@ -63,10 +63,10 @@ class _loginBodyState extends State<loginBody> {
           //   tooltip: 'Show me the value!',
           //   child: const Icon(Icons.text_fields),
           // ),
-          Text(
-            'pizda',
-            style: TextStyle(fontWeight: FontWeight.bold),
-          ),
+          // Text(
+          //   'pizda',
+          //   style: TextStyle(fontWeight: FontWeight.bold),
+          // ),
 
           // TextField(
           //   decoration: InputDecoration(fillColor: Colors.black),

@@ -31,7 +31,7 @@ class _PrintPageState extends State<PrintPage> {
         initPrinter();
       } else if (val == 10) print('state is $val');
       setState(() {
-        _deviceMsg = 'Bluetooth no pizda';
+        _deviceMsg = 'Bluetooth no ';
       });
     });
     // print(widget.data);

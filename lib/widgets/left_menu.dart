@@ -37,16 +37,16 @@ class _left_menuState extends State<left_menu>
   //   {'pizda:pizd'}
   // ];
   List itemList = [
-    {'pizda1': 'pizda1'},
-    {'pizda1': 'pizda2'},
-    {'pizda1': 'pizda3'},
-    {'pizda1': 'pizda4'},
-    {'pizda1': 'pizda5'},
-    {'pizda1': 'pizda6'},
-    {'pizda1': 'pizda7'},
-    {'pizda1': 'pizda7'},
-    {'pizda1': 'pizda7'},
-    {'pizda1': 'pizda7'},
+    // {'pizda1': 'pizda1'},
+    // {'pizda1': 'pizda2'},
+    // {'pizda1': 'pizda3'},
+    // {'pizda1': 'pizda4'},
+    // {'pizda1': 'pizda5'},
+    // {'pizda1': 'pizda6'},
+    // {'pizda1': 'pizda7'},
+    // {'pizda1': 'pizda7'},
+    // {'pizda1': 'pizda7'},
+    // {'pizda1': 'pizda7'},
   ];
 
   late double screenWidth, screenHeigth;
